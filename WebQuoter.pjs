@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{5894DBC8-97C2-462B-A7DF-4DB6DA1DE117}">
+	<children>
+		<child name="TenantQuoter" key="{A097BAA5-0B6E-4C2C-AABF-9E6E177B1CD9}" path="TenantQuoter\TenantQuoter.mds" />
+	</children>
+	<testItems key="{192892C3-55AC-47DB-AB52-684B8E76BC85}">
+		<children>
+			<testItem key="{A097BAA5-0B6E-4C2C-AABF-9E6E177B1CD9}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{1C6202C2-B6AC-4A5E-88B8-4FCE656032F4}" />
+	<analysis key="{FC213F5B-B188-4164-9137-BB777B12BEA5}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
